@@ -1,0 +1,23 @@
+a.navbar-brand {font-family: 'Times New Roman', Times, serif;
+                font-size: 24px;}
+ul.navbar-nav {font-size: small; font-weight: 100;}
+li.nav-item{margin-right: 30px;}
+
+#header p {letter-spacing: 6px; font-size: small;}
+h1.font-1 {font-family: 'Times New Roman', Times, serif;
+            font-weight: bold;
+            line-height: 0.6;
+            margin-top: 50px;}    
+h2.font-2 {font-family: 'Times New Roman', Times, serif;
+            font-weight: bold;}
+
+a.nav-link{color: black; font-size: small; font-weight: 100;}
+
+#gridphoto img{
+    height:250px; width: 325px; margin-bottom:10px;}
+
+#caption p{font-size: small;
+    line-height: 0.6;}
+h3.font-3 {font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;}
+#caption img { height: 15px; width: 15px; margin-left: 15px;}
